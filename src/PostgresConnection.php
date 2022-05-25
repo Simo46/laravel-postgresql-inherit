@@ -3,6 +3,8 @@
 namespace RishiRamawat\PostgresSchema;
 
 use Illuminate\Database\PostgresConnection as BasePostgresConnection;
+use PostgresGrammar;
+use Blueprint;
 
 class PostgresConnection extends BasePostgresConnection
 {

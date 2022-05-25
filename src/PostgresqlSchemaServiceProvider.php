@@ -4,6 +4,7 @@ namespace RishiRamawat\PostgresSchema;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Foundation\Application as App;
+use PostgresConnection;
 
 class PostgresqlSchemaServiceProvider extends ServiceProvider
 {
