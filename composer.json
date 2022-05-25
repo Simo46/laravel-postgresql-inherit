@@ -1,5 +1,5 @@
 {
-    "name": "rishi-ramawat/laravel-postgresql-inherit",
+    "name": "simo46/laravel-postgresql-inherit",
     "description": "Add inheritance in postgresql tables",
     "license": "MIT",
     "keywords": ["laravel", "postgres", "postresql", "database", "migrations", "inheritance"],
@@ -37,6 +37,6 @@
                 "RishiRamawat\\PostgresSchema\\PostgresqlSchemaServiceProvider"
             ]
         }
-    }
+    },
     "minimum-stability": "stable"
 }
